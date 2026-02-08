@@ -1,1 +1,1 @@
-Insights from a couple of decades of foight instruction.
+Insights from a couple of decades of flight instruction.
