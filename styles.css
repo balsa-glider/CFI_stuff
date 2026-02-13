@@ -14,7 +14,7 @@ details summary {
   display: flex;              /* Makes alignment easy */
   align-items: center;        /* Vertically centers the arrow with text */
   cursor: pointer;
-  padding: 12px 16px;         /* Adjust as needed */
+  padding: 2px;         /* Adjust as needed */
   gap: 12px;                  /* Space between arrow and text */
 }
 
