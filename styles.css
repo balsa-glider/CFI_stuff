@@ -34,10 +34,10 @@ details[open] summary::before {
 h2 {
     margin-top: 10px;
     border-radius: 15px;
-    color: bisque;
 }
 
 .aoo {
    border-radius: 15px;
    border: solid black 1px;
+   padding: 5px;
 }
