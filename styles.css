@@ -33,8 +33,9 @@ details[open] summary::before {
 
 h2 {
     margin-top: 10px;
-    border-radius: 15px;
+    border-radius: 30px;
     padding: 0;
+    max-width: 500px;
 }
 
 .aoo {
