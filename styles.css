@@ -30,9 +30,10 @@ details summary::before {
 details[open] summary::before {
   transform: rotate(90deg);
 }
-Complete minimal example
 
 h2 {
     margin-top: 10px;
+    border-radius: 15px;
+    color: bisque;
 }
 
